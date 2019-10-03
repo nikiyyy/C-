@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\win-chanpc\documents\code\c++\visual studio\course_project\course_project\source.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\win-chanpc\documents\code\c++\visual studio\course_project\course_project\source.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\win-chanpc\documents\code\c++\visual studio\course_project\course_project\source.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\win-chanpc\documents\code\c++\visual studio\course_project\course_project\source.cpp(248): warning C4018: '<': signed/unsigned mismatch
+c:\users\win-chanpc\documents\code\c++\visual studio\course_project\course_project\source.cpp(250): warning C4018: '>': signed/unsigned mismatch
+c:\users\win-chanpc\documents\code\c++\visual studio\course_project\course_project\source.cpp(268): warning C4018: '<': signed/unsigned mismatch
+c:\users\win-chanpc\documents\code\c++\visual studio\course_project\course_project\source.cpp(269): warning C4018: '>': signed/unsigned mismatch
+c:\users\win-chanpc\documents\code\c++\visual studio\course_project\course_project\source.cpp(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\win-chanpc\documents\code\c++\visual studio\course_project\course_project\source.cpp(284): warning C4018: '>': signed/unsigned mismatch
+c:\users\win-chanpc\documents\code\c++\visual studio\course_project\course_project\source.cpp(298): warning C4018: '<': signed/unsigned mismatch
+  course_project.vcxproj -> C:\Users\win-chanPC\Documents\code\c++\visual studio\course_project\Debug\course_project.exe

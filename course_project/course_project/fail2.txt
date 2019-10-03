@@ -1,0 +1,12 @@
+sofia 31
+Concorde 20500 33 Tu-160 700 15 Yak-40 5490 20 PC-6 15000 76
+Moscow 57 Dalas 23 Madrid 30 Cairo 77
+IGavion French 96
+n  
+KR860 1340 22 C919 700 2 porter 54500 20 falcon-x7 5000 33
+London 70 Helsinki 23 Dalas 39 Madrid 88
+Frogair French 23
+n
+Eclipse-550 13400 22 Embraer-650 100 2 Gulfstream 500 20 Cessna-172 82500 23
+Cairo 77 Moscow 17 Prague 49 Madrid 58
+krautair German 73

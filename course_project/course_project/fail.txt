@@ -1,0 +1,8 @@
+sofia 34
+Concorde 20500 33 Tu-160 700 15 Yak-40 5490 20 PC-6 15000 76
+Moscow 57 Dalas 23 Melborne 30 Stockholm 77
+IGavion French 56
+g  
+KR860 1340 22 C919 700 2 porter 54500 20 falcon-x7 15000 33
+London 77 Moscow 13 Prague 49 Melborne 88
+Avdef French 23
