@@ -1,0 +1,6 @@
+﻿  circle.cpp
+  main.cpp
+  Sphere.cpp
+  Generating Code...
+C:\Users\Skot\source\repos\Sphere\Sphere\circle.cpp(11,32): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+  Sphere.vcxproj -> C:\Users\Skot\source\repos\Sphere\Debug\Sphere.exe
